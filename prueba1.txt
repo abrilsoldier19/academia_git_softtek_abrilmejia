@@ -1,2 +1,0 @@
-hola esto es una prueba para academia git Softtek con archivo prueba1.txt
-cambios nuevos
