@@ -1,1 +1,2 @@
 hola, este es mi nuevo archivo develop.txt
+prueba de commit reset
