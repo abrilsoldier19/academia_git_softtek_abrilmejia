@@ -1,5 +1,7 @@
-Esta es la rama QA
-<<<<<<< HEAD
-Esta es la rama develop
+<<<<<<<<<<<<
+Solucion README.md en master haciendo merge QA y Develop
+>>>>>>>>>>>>>>>> 
+Esta es la QA
 =======
->>>>>>> develop1
+Esta es la rama develop
+
